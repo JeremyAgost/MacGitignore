@@ -24,4 +24,6 @@ xcuserdata
 *~.nib
 *.xcworkspacedata
 *.ipa
+*.xccheckout
+*.xcscmblueprint
 .LSOverride
