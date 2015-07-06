@@ -26,3 +26,9 @@ xcuserdata
 *.xccheckout
 *.xcscmblueprint
 .LSOverride
+
+# IDEA files
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/misc.xml
+.idea/*plugin.xml
