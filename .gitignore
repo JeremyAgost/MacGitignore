@@ -22,7 +22,6 @@ build/
 *.perspectivev3
 xcuserdata
 *~.nib
-*.xcworkspacedata
 *.ipa
 *.xccheckout
 *.xcscmblueprint
