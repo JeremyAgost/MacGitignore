@@ -16,7 +16,6 @@ Session.vim
 # Xcode
 *.mode1v3
 *.mode2v3
-build/
 *.pbxuser
 *.perspective
 *.perspectivev3
@@ -27,8 +26,10 @@ xcuserdata
 *.xcscmblueprint
 .LSOverride
 
+# CMake
+build/
+
 # IDEA files
 .idea/workspace.xml
 .idea/tasks.xml
-.idea/misc.xml
 .idea/*plugin.xml
